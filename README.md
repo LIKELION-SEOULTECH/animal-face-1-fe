@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🐾 AnimalFace Frontend
 
 나의 동물상을 찾아주는 AI 분석 웹 서비스입니다.
@@ -141,5 +140,3 @@ export default defineConfig([
     },
   },
 ])
-```
->>>>>>> origin/B
